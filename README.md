@@ -1,4 +1,5 @@
-![180 Days of ML/AI Challenge](https://your-image-hosting.com/banner-image.png)
+![180 Days of ML/AI Challenge](![WhatsApp Image 2025-05-10 at 12 00 50_01ad1498](https://github.com/user-attachments/assets/95db4aa7-ad40-44ee-85fc-21b13eccadc3)
+)
 Hi there! 👋
 Hi! I'm Abishek Ghimire, a self-taught developer, tech enthusiast, and machine learning explorer from Nepal.
 
