@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.dev/14/?scale=180&title=day&width=300&color=00ff00)
+
 
 # **🚀 180 Days of ML/AI Challenge** 🔥
 
