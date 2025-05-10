@@ -1,5 +1,10 @@
-![180 Days of ML/AI Challenge](![WhatsApp Image 2025-05-10 at 12 00 50_01ad1498](https://github.com/user-attachments/assets/95db4aa7-ad40-44ee-85fc-21b13eccadc3)
-)
+Welcome to my **180-day journey** of mastering **Machine Learning** and **AI**! This challenge is designed to take me from beginner to expert, one day at a time. Follow along for daily updates, resources, coding challenges, and real-world project applications. Let's make this challenge count!
+
+---
+
+![180 Days of ML/AI Challenge](https://github.com/user-attachments/assets/95db4aa7-ad40-44ee-85fc-21b13eccadc3)
+
+## 🎯 Challenge Breakdown:
 Hi there! 👋
 Hi! I'm Abishek Ghimire, a self-taught developer, tech enthusiast, and machine learning explorer from Nepal.
 
