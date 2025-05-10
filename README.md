@@ -1,15 +1,38 @@
 ![180 Days of ML/AI Challenge](https://your-image-hosting.com/banner-image.png)
 Hi there! 👋
+Hi! I'm Abishek Ghimire, a self-taught developer, tech enthusiast, and machine learning explorer from Nepal.
 
-I'm **Abishek Ghimire**, a self-taught developer and tech enthusiast from Nepal. I'm currently on a mission to master Machine Learning & AI in 180 days, streaming my learning journey live on YouTube.
+Right now, I'm fully committed to a personal mission:
+🎯 Mastering Machine Learning & AI in 180 Days — Live on YouTube.
 
-- 🎯 **Challenge**: 180 Days of ML/AI
-- 📍 **Location**: Kathmandu, Nepal
-- 📅 **Day**: 14
+Every day, I stream my learning journey, tackling one concept at a time and documenting everything — from notebooks and notes to project code and daily logs — in public, for everyone to learn from and contribute to.
 
-I believe in learning in public and building a community of like-minded learners. Join me as I explore one concept at a time, share resources, and grow together.
+🚀 What I’m Doing
+🧠 Studying one ML/AI concept daily (currently on Day 14)
 
-📬 Feel free to connect with me or drop by the stream—you're always welcome!
+🎥 Streaming study sessions live on YouTube to stay accountable
+
+💻 Building and sharing projects, code, and practical applications
+
+📚 Creating a free knowledge base of resources, notes, and examples
+
+🌱 Growing a community of learners who want to break into ML/AI
+
+📦 What You'll Find Here
+Code repositories from my challenge
+
+Daily progress logs and concept explanations
+
+Resources for books, courses, datasets, and tools
+
+Open-source projects and collaborations
+
+🙌 Why I’m Doing This
+Learning in public changed everything for me. It keeps me accountable, makes the journey more meaningful, and inspires others to start too.
+I believe anyone — regardless of background — can break into tech and AI with consistency, curiosity, and community.
+
+Let’s learn, build, and grow together.
+📬 Reach out, star a repo, or drop by the stream — you’re always welcome!
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abishek-0777&theme=gruvbox&no-frame=true&margin-w=4)
 
