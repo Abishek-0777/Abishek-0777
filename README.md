@@ -1,3 +1,5 @@
+![Progress](https://progress-bar.dev/14/?scale=180&title=day&width=300&color=00ff00)
+
 # **🚀 180 Days of ML/AI Challenge** 🔥
 
 Welcome to my **180-day journey** of mastering **Machine Learning** and **AI**! This challenge is designed to take me from beginner to expert, one day at a time. Follow along for daily updates, resources, coding challenges, and real-world project applications. Let's make this challenge count!
